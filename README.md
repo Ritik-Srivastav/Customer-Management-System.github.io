@@ -14,7 +14,7 @@ npm install
 
 node server.js
 
-3)2)Open a new terminal and run below command to start frontend server.  
+3)Open a new terminal and run below command to start frontend server.  
 
 cd cms-frontend   
 
